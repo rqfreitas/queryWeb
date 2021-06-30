@@ -1,5 +1,6 @@
 # queryWeb
 querying web Wikidata and beyond
 
-# Division
-Go to wikipage to see more.
+## Links
+* [**List of Properties**](https://www.wikidata.org/wiki/Wikidata:List_of_properties)
+
